@@ -1,29 +1,3 @@
-##################################################################
-## A simple R example for plotting fineRADstructure output
-## Author: Milan Malinsky (millanek@gmail.com), adapted from a Finestructure R Example by Daniel Lawson (dan.lawson@bristol.ac.uk) and using his library of R functions
-## Date: 04/04/2016
-## Notes:
-##    These functions are provided for help working with fineSTRUCTURE output files
-## but are not a fully fledged R package for a reason: they are not robust
-## and may be expected to work only in some specific cases - often they may require 
-## at least minor modifications! USE WITH CAUTION!
-## SEE FinestrictureLibrary.R FOR DETAILS OF THE FUNCTIONS
-##
-## Licence: GPL V3
-## 
-##    This program is free software: you can redistribute it and/or modify
-##    it under the terms of the GNU General Public License as published by
-##    the Free Software Foundation, either version 3 of the License, or
-##    (at your option) any later version.
-
-##    This program is distributed in the hope that it will be useful,
-##    but WITHOUT ANY WARRANTY; without even the implied warranty of
-##    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-##    GNU General Public License for more details.
-
-##    You should have received a copy of the GNU General Public License
-##    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
 setwd("C:/Users/wheeleri")
 
 
